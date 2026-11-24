@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Net.Http;
 using System.Reflection;
 using System.Runtime.Serialization.Json;
@@ -69,6 +70,8 @@ namespace LocalTranslate {
         internal static event Action Changed;
 
         static Ui() {
+            // The standalone csc build does not declare a target framework configuration.
+            ServicePointManager.SecurityProtocol=SecurityProtocolType.Tls12;
             var catalog=Fields(Json(Resource("ui.manifest.json")));
             RequireFields(catalog,"schema","release","packs");
             if(Number(catalog["schema"])!=1 || !Regex.IsMatch(Release=Text(catalog["release"]),@"\Av[0-9]+\.[0-9]+\.[0-9]+\z"))

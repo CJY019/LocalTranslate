@@ -18,9 +18,9 @@ using System.Windows.Media.Imaging;
 [assembly: AssemblyTitle("本地翻译")]
 [assembly: AssemblyProduct("本地翻译")]
 [assembly: AssemblyDescription("本地模型翻译")]
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: AssemblyInformationalVersion("1.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]
+[assembly: AssemblyInformationalVersion("1.0.1")]
 
 namespace LocalTranslate {
     internal static class App {

@@ -4,7 +4,7 @@ Open **Settings → Interface language** to change the desktop app immediately. 
 
 Choose **Français** to download the French interface from GitHub. After a successful download it works offline, including after restarting the app. A failed download leaves the active interface and the saved preference in place. If a saved pack is missing or damaged at startup, the app uses its system-language default and shows the reason in Settings.
 
-On a portable installation in `D:\Translate`, the preference is in `D:\Translate\settings.json` and the verified French cache is in `D:\Translate\cache\langpacks\v1.0.0\fr-FR.json`. These locations follow the application directory. The language request downloads the selected JSON and sends no text, documents, chat messages, model settings, or file names to GitHub.
+On a portable installation in `D:\Translate`, the preference is in `D:\Translate\settings.json` and the verified French cache for v1.0.1 is in `D:\Translate\cache\langpacks\v1.0.1\fr-FR.json`. These locations follow the application directory. The language request downloads the selected JSON and sends no text, documents, chat messages, model settings, or file names to GitHub.
 
 ## Create a language pack
 
