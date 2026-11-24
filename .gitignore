@@ -1,0 +1,20 @@
+# Local installation, model weights, downloads and user output
+/runtime/
+/models/
+/Output/
+/temp/
+/cache/
+/dist/
+/settings.json
+/settings.json.tmp
+/LocalTranslate.exe
+/使用说明.md
+/模型实测报告.md
+/验收记录.md
+*.gguf
+*.part
+*.log
+**/__pycache__/
+*.py[cod]
+.vs/
+*.user

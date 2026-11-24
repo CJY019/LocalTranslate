@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Python 3.13.17 Windows x64 embeddable",
+    "file": "python-3.13.17-embed-amd64.zip",
+    "url": "https://www.python.org/ftp/python/3.13.17/python-3.13.17-embed-amd64.zip",
+    "sha256": "9e35319bffedab8b36ad44d8f377cb4f1733bcec257a0b6d04d94f01486ddb38",
+    "kind": "python"
+  },
+  {
+    "name": "llama.cpp b12633 Windows x64 CPU",
+    "file": "llama-b12633-bin-win-cpu-x64.zip",
+    "url": "https://github.com/ggml-org/llama.cpp/releases/download/b12633/llama-b12633-bin-win-cpu-x64.zip",
+    "sha256": "bad9fe0c1b554bcb1ce5630d66ad34a2285a8b390400513cc02f56feafd62c8e",
+    "kind": "llama"
+  },
+  {
+    "name": "Microsoft Visual C++ Redistributable 14.44.35211",
+    "file": "VC_redist.x64.exe",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/e9604e21-4b79-4096-a4b3-1b63d4b55b4d/CC0FF0EB1DC3F5188AE6300FAEF32BF5BEEBA4BDD6E8E445A9184072096B713B/VC_redist.x64.exe",
+    "sha256": "cc0ff0eb1dc3f5188ae6300faef32bf5beeba4bdd6e8e445a9184072096b713b",
+    "kind": "vcredist"
+  },
+  {
+    "name": "PyMuPDF 1.27.2.3",
+    "file": "pymupdf-1.27.2.3-cp310-abi3-win_amd64.whl",
+    "url": "https://files.pythonhosted.org/packages/44/47/5fb10fe73f96b31253a41647c362ea9e0380920bddf16028414a051247fc/pymupdf-1.27.2.3-cp310-abi3-win_amd64.whl",
+    "sha256": "d20f68ef15195e073071dbc4ae7455257c7889af7584e39df490c0a92728526e",
+    "kind": "wheel"
+  },
+  {
+    "name": "lxml 6.1.3",
+    "file": "lxml-6.1.3-cp313-cp313-win_amd64.whl",
+    "url": "https://files.pythonhosted.org/packages/c0/28/e46a7702bd95e9043291f7c3539b6184cba66f96cea9936f20939b284eeb/lxml-6.1.3-cp313-cp313-win_amd64.whl",
+    "sha256": "e477aca0bc0d19f3b4ae9e4f2a1cfd687c31bf772d78734910658186b40b2477",
+    "kind": "wheel"
+  },
+  {
+    "name": "python-docx 1.2.0",
+    "file": "python_docx-1.2.0-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/d0/00/1e03a4989fa5795da308cd774f05b704ace555a70f9bf9d3be057b680bcf/python_docx-1.2.0-py3-none-any.whl",
+    "sha256": "3fd478f3250fbbbfd3b94fe1e985955737c145627498896a8a6bf81f4baf66c7",
+    "kind": "wheel"
+  },
+  {
+    "name": "markdown-it-py 4.3.0",
+    "file": "markdown_it_py-4.3.0-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/c9/31/5f0ac2f1a1c67423c995c731a11cd4ad05d081a2be969d74f868bdb9cc70/markdown_it_py-4.3.0-py3-none-any.whl",
+    "sha256": "7aa1511a46c39138de78d9eba92ce47e63124d8003fc98b3a351909e04239efa",
+    "kind": "wheel"
+  },
+  {
+    "name": "mdurl 0.1.2",
+    "file": "mdurl-0.1.2-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/b3/38/89ba8ad64ae25be8de66a6d463314cf1eb366222074cfda9ee839c56a4b4/mdurl-0.1.2-py3-none-any.whl",
+    "sha256": "84008a41e51615a49fc9966191ff91509e3c40b939176e643fd50a5c2196b8f8",
+    "kind": "wheel"
+  },
+  {
+    "name": "typing-extensions 4.16.0",
+    "file": "typing_extensions-4.16.0-py3-none-any.whl",
+    "url": "https://files.pythonhosted.org/packages/49/d3/b8441a820a491ddfc024b0b0cf0393375b75ea13866d9c66727e54c2fc80/typing_extensions-4.16.0-py3-none-any.whl",
+    "sha256": "481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8",
+    "kind": "wheel"
+  },
+  {
+    "name": "fasttext-predict 0.9.2.3",
+    "file": "fasttext_predict-0.9.2.3-cp313-cp313-win_amd64.whl",
+    "url": "https://files.pythonhosted.org/packages/e3/6e/228bc109a7af370ff5548366330fffc7c356a097d90262b114dd947da17a/fasttext_predict-0.9.2.3-cp313-cp313-win_amd64.whl",
+    "sha256": "1aa2b89b53237a6be5b1e6548e321fc4b91fc797f3e9b96ea7a5b21abda7dc1e",
+    "kind": "detector-wheel"
+  },
+  {
+    "name": "fastText lid.176.ftz",
+    "file": "lid.176.ftz",
+    "url": "https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.ftz",
+    "sha256": "8f3472cfe8738a7b6099e8e999c3cbfae0dcd15696aac7d7738a8039db603e83",
+    "kind": "detector-model"
+  },
+  {
+    "name": "llama.cpp MIT license",
+    "file": "llama-MIT.txt",
+    "url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/9c10c94e16ebc4f3ed7c06264a93bf7e019c3f26/LICENSE",
+    "sha256": "94f29bbed6a22c35b992c5c6ebf0e7c92f13b836b90f36f461c9cf2f0f1d010d",
+    "kind": "license"
+  },
+  {
+    "name": "Creative Commons Attribution-ShareAlike 3.0 license",
+    "file": "CC-BY-SA-3.0.txt",
+    "url": "https://creativecommons.org/licenses/by-sa/3.0/legalcode.txt",
+    "sha256": "3f941b3b89cf7b8370ceb83cc76d2120d471b58735d8ca60238a751a48d7f72f",
+    "kind": "license"
+  },
+  {
+    "name": "PyMuPDF 1.27.2.3 source",
+    "file": "pymupdf-1.27.2.3.tar.gz",
+    "url": "https://files.pythonhosted.org/packages/22/32/708bedc9dde7b328d45abbc076091769d44f2f24ad151ad92d56a6ec142b/pymupdf-1.27.2.3.tar.gz",
+    "sha256": "7a92faa25129e8bbec5e50eeb9214f187665428c31b05c4ef6e36c58c0b1c6d2",
+    "kind": "source"
+  },
+  {
+    "name": "MuPDF 1.27.2 source",
+    "file": "mupdf-1.27.2-source.tar.gz",
+    "url": "https://mupdf.com/downloads/archive/mupdf-1.27.2-source.tar.gz",
+    "sha256": "553867b135303dc4c25ab67c5f234d8e900a0e36e66e8484d99adc05fe1e8737",
+    "kind": "source"
+  }
+]

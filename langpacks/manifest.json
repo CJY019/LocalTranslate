@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "release": "v1.0.0",
+  "packs": [
+    {
+      "locale": "fr-FR",
+      "nativeName": "Français",
+      "file": "fr-FR.json",
+      "bytes": 28066,
+      "sha256": "0e264e16a75ef5c8ecb4e07b5559e984118d2f66a05b4b5fc8d6555c21bfac8e"
+    }
+  ]
+}
